@@ -1,0 +1,19 @@
+Spawn the robot from a web shell, but this time passing some arguments, in order to avoid the wall (otherwise the robot will be spawned just over one of the obstacles right way):
+
+roslaunch m2wr_description spawn.launch y:=8
+
+This is the environment we start it from!
+
+
+Since we will code with Python, let’s create one more script into the motion_plan package. It goes at ~/catkin_ws/src/motion_plan/scripts/obstacle_avoidance.py. !! Don’t forget to assign the necessary permission to it [chmod +x <name_of_the_file.py>] !!
+
+Let’s go step-by-step!
+
+We defined, in the previous chapter, 5 regions of the laser scan and we are going to use the same here. They are:
+ •  Right
+ •  Front-Right
+ •  Front
+ •  Front-Left
+ •  Left
+
+For the sake of simplicity, we only use the 3 ones in the middle to do the obstacle avoidance algorithm.
