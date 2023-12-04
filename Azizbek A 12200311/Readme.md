@@ -1,4 +1,4 @@
-#TurtleBot3 Run Motor
+# TurtleBot3 Run Motor
 
 Install ROS 2
 Install TurtleBot3 Packages: which I found these packages on the official TurtleBot GitHub repository: https://github.com/ROBOTIS-GIT/turtlebot3
@@ -30,7 +30,7 @@ if __name__ == '__main__':
     control_turtlebot3()
 
 
-#I created a new ROS2 package to Control Motor:
+# I created a new ROS2 package to Control Motor:
 Ros2 pkg create my_turtlebot3_control
 Build and Run Your Code:
 Workspace again: colcon build --symlink-install
