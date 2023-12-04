@@ -38,6 +38,24 @@ Source our workspace colcon build --symlink-install
 Run our code: ros2 run my_turtlebot3_control my_turtlebot3_control_node
 
 
+# First, I installed the following documentation:
+pip install dynamixel-sdk
+
+<img width="590" alt="Screenshot 2023-12-04 at 10 42 27 PM" src="https://github.com/Azizbek-Akhmadov/MinerBot/assets/81019633/0cb897ff-7773-4285-a9b8-47862d03c658">
+
+Codes: 
+<img width="554" alt="Screenshot 2023-12-04 at 10 43 19 PM" src="https://github.com/Azizbek-Akhmadov/MinerBot/assets/81019633/edda6366-5f64-494a-a6bf-cb2a69e2eea5">
+
+
+<img width="552" alt="Screenshot 2023-12-04 at 10 43 39 PM" src="https://github.com/Azizbek-Akhmadov/MinerBot/assets/81019633/6727331b-b9aa-49ba-965e-3c2eef41a93a">
+
+
+<img width="842" alt="Screenshot 2023-12-04 at 10 43 58 PM" src="https://github.com/Azizbek-Akhmadov/MinerBot/assets/81019633/9ce34b8b-5a20-4a17-82b5-26b6e1b1451c">
+
+
+
+
+
 
 
 
