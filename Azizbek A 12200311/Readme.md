@@ -44,6 +44,8 @@ pip install dynamixel-sdk
 <img width="590" alt="Screenshot 2023-12-04 at 10 42 27 PM" src="https://github.com/Azizbek-Akhmadov/MinerBot/assets/81019633/0cb897ff-7773-4285-a9b8-47862d03c658">
 
 Codes: 
+
+
 <img width="554" alt="Screenshot 2023-12-04 at 10 43 19 PM" src="https://github.com/Azizbek-Akhmadov/MinerBot/assets/81019633/edda6366-5f64-494a-a6bf-cb2a69e2eea5">
 
 
