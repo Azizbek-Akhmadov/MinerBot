@@ -117,3 +117,6 @@ def take_action(regions):
         linear_x = 0
         angular_z = 0.3
     elif regions['front'] < 1 and regions['fleft'] > 1 and regions['fright'] < 1:
+
+    ![telegram-cloud-photo-size-4-5975540840640129382-y](https://github.com/Azizbek-Akhmadov/MinerBot/assets/81019633/1dbf2e3f-028c-4794-80ff-a0cb270e16d4)
+
